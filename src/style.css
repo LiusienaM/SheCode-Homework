@@ -20,10 +20,6 @@ h3 {
   color: var(--second-color);
 }
 
-/* .text-center {
-  text-align: center;
-} */
-
 .links-btn {
   display: flex;
   justify-content: center;
@@ -62,7 +58,6 @@ h3 {
   text-decoration: underline;
 }
 
-.back-link,
 .contactme-link {
   display: block;
   text-align: center;
